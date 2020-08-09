@@ -13,3 +13,11 @@ Here you can find the necessary links provided in each post
 - Of course our lovely freeCodeCamp.org [tutorial for begineers](https://www.youtube.com/watch?v=F5mRW0jo-U4) as well [a guide to building an eCommerce website](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 - And in the end I recommend the series on [Django specialization from Coursera](https://www.coursera.org/specializations/django)
 
+
+## 1. Start Learning Python
+- [Learn to Program](https://youtu.be/nwjAHQERL08) YouTube Tutorial 
+- [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) YouTube Tutorial 
+- [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- My friend suggested "Python For everybody Specialization from Coursera" and I have found its [YouTube Turorial](https://www.youtube.com/watch?v=8DvywoWv6fI), but even if you don't need a certificate go to Coursera because there are many quizes and interesting exams.
+- The books I have read: Think Python, Step by Step Guide to Python
+- Also I suggest the book "Python all in one for Dummies" 
