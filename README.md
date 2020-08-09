@@ -21,3 +21,5 @@ Here you can find the necessary links provided in each post
 - My friend suggested "Python For everybody Specialization from Coursera" and I have found its [YouTube Turorial](https://www.youtube.com/watch?v=8DvywoWv6fI), but even if you don't need a certificate go to Coursera because there are many quizes and interesting exams.
 - The books I have read: Think Python, Step by Step Guide to Python
 - Also I suggest the book "Python all in one for Dummies" 
+- [w3schools.com Python Tutorial](https://www.w3schools.com/python/default.asp) 
+- [geeksforgeeks.org Python Turorial](https://www.geeksforgeeks.org/python-programming-language/)
