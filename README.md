@@ -14,7 +14,7 @@ Here you can find the necessary links provided in each post
 - And in the end I recommend the series on [Django specialization from Coursera](https://www.coursera.org/specializations/django)
 
 
-## 1. Start Learning Python
+## 2. Start Learning Python
 - [Learn to Program](https://youtu.be/nwjAHQERL08) YouTube Tutorial 
 - [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) YouTube Tutorial 
 - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
