@@ -29,5 +29,5 @@ Here you can find the necessary links provided in each post
    - console version (Pure Python)
    - gui version (Python Tkinter)
    - web version (Python Django)
-   - telegram bot version (telepot || aiogramm)
+   - telegram bot version (telepot || aiogram)
 
