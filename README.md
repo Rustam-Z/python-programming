@@ -11,6 +11,8 @@ Here you can find the necessary links provided in each post
 - Another great YouTube channel is Corey Schafer check [this tutorial series](https://youtu.be/UmljXZIypDc)
 - Of course our lovely freeCodeCamp.org [tutorial for begineers](https://www.youtube.com/watch?v=F5mRW0jo-U4) as well [a guide to building an eCommerce website](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 - And in the end I recommend the series on [Django specialization from Coursera](https://www.coursera.org/specializations/django)
+- Books: Django 3 by Examples || Django for begineers by Vincent W.
+
 
 
 ## 2. Start Learning Python
@@ -27,5 +29,5 @@ Here you can find the necessary links provided in each post
    - console version (Pure Python)
    - gui version (Python Tkinter)
    - web version (Python Django)
-   - telegram bot version (telepot || aiogramm)
+   - telegram bot version (telepot || aiogram)
 
