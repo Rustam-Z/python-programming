@@ -1,4 +1,4 @@
-# EightSoft Academy Learning Area
+# Learning Area
 Here you can find the necessary links provided in each post
 
 ## 1. Start Learning Python Django 
@@ -24,6 +24,8 @@ Here you can find the necessary links provided in each post
 - Also I suggest the book "Python all in one for Dummies" 
 - [w3schools.com Python Tutorial](https://www.w3schools.com/python/default.asp) 
 - [geeksforgeeks.org Python Turorial](https://www.geeksforgeeks.org/python-programming-language/)
+- [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists)
+- [Oleg Malchanov](youtube.com/user/zaemiel)
 
 ## 3. Dictionary app
    - console version (Pure Python)
