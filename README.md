@@ -1,5 +1,6 @@
 # Learning Area
 Here you can find the necessary links provided in each post
+
 [List of my Bootcamp Projects](https://github.com/Rustam-Z/python-projects-db)
 
 ## 1. Start Learning Python Django 
