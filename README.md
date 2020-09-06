@@ -28,9 +28,3 @@ Here you can find the necessary links provided in each post and my bootcamp proj
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists)
 - [Oleg Malchanov](youtube.com/user/zaemiel)
 
-## 3. Dictionary app
-   - console version (Pure Python)
-   - gui version (Python Tkinter)
-   - web version (Python Django)
-   - telegram bot version (telepot || aiogram)
-
