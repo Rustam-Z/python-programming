@@ -26,5 +26,5 @@ Here you can find the necessary links provided in each post and my bootcamp proj
 - [w3schools.com Python Tutorial](https://www.w3schools.com/python/default.asp) 
 - [geeksforgeeks.org Python Turorial](https://www.geeksforgeeks.org/python-programming-language/)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists)
-- [Oleg Malchanov](youtube.com/user/zaemiel)
+- [Oleg Malchanov](https://www.youtube.com/watch?v=VXYyJX5qMiQ&list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR)
 
