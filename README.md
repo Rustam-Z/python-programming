@@ -27,10 +27,6 @@ Here you can find the necessary links provided in each post and my bootcamp proj
 - And in the end I recommend the series on [Django specialization from Coursera](https://www.coursera.org/specializations/django)
 - Books: Django 3 by Examples || Django for begineers by Vincent W.
 
-
-
-<<<<<<< HEAD
-
 =======
 ## 2. Start Learning Python
 - [Learn to Program](https://youtu.be/nwjAHQERL08) YouTube Tutorial 
@@ -43,5 +39,4 @@ Here you can find the necessary links provided in each post and my bootcamp proj
 - [geeksforgeeks.org Python Turorial](https://www.geeksforgeeks.org/python-programming-language/)
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists)
 - [Oleg Malchanov](https://www.youtube.com/watch?v=VXYyJX5qMiQ&list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR)
->>>>>>> fef11e90ae451baed00fa37171c39c8a67c35481
 
