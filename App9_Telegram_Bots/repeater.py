@@ -2,8 +2,7 @@ import telepot
 import time
 import telepot.aio
 from telepot.loop import MessageLoop
-import config
-
+#
 def handle(msg):
     content_type, chat_type, chat_id = telepot.glance(msg)
     command = msg['text']
@@ -12,9 +11,9 @@ def handle(msg):
     print('Got command: %s' % command)
 
     if content_type == 'text':
-        bot.sendMessage(chat_id, "You said '{}'".format(command))
+        bot.sendMessage(chat_id, "Ты сказал '{}'".format(command))
 
-TOKEN = config.TOKEN
+TOKEN = '1295279684:AAGKfm8kGIqS6q1r2vCbUpozfDoX-TlvDHY'
 
 bot = telepot.Bot(TOKEN)
 
