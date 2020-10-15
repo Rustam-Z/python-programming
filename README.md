@@ -29,5 +29,19 @@ Here you can find the necessary links provided in each post and my bootcamp proj
 
 
 
+<<<<<<< HEAD
 
+=======
+## 2. Start Learning Python
+- [Learn to Program](https://youtu.be/nwjAHQERL08) YouTube Tutorial 
+- [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) YouTube Tutorial 
+- [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- My friend suggested ["Python For everybody Specialization from Coursera"](https://www.coursera.org/specializations/python) and I have found its [YouTube Turorial](https://www.youtube.com/watch?v=8DvywoWv6fI), but even if you don't need a certificate go to Coursera because there are many quizes and interesting exams.
+- The books I have read: Think Python, Step by Step Guide to Python
+- Also I suggest the book "Python all in one for Dummies" 
+- [w3schools.com Python Tutorial](https://www.w3schools.com/python/default.asp) 
+- [geeksforgeeks.org Python Turorial](https://www.geeksforgeeks.org/python-programming-language/)
+- [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists)
+- [Oleg Malchanov](https://www.youtube.com/watch?v=VXYyJX5qMiQ&list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR)
+>>>>>>> fef11e90ae451baed00fa37171c39c8a67c35481
 
