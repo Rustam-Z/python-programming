@@ -29,5 +29,6 @@ My Path to Learning Python and Web Development
 - [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) YouTube Channel, if you are a beginner start from [here](https://youtu.be/xv_bwpA_aEA)
 - Another great YouTube channel is Corey Schafer check [this tutorial series](https://youtu.be/UmljXZIypDc)
 - Of course our lovely freeCodeCamp.org [tutorial for begineers](https://www.youtube.com/watch?v=F5mRW0jo-U4) as well [a guide to building an eCommerce website](https://www.youtube.com/watch?v=YZvRrldjf1Y)
-- And in the end I recommend the series on [Django specialization from Coursera](https://www.coursera.org/specializations/django)
+- And in the end I recommend the [Django specialization from Coursera](https://www.coursera.org/specializations/django)
+- My notes from the course https://github.com/Rustam-Z/django-coursera
 - Books: Django 3 by Examples || Django for begineers by Vincent W.
