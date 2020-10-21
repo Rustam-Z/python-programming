@@ -1,7 +1,7 @@
 # Learning Area
 My Path to Learning Python and Web Development
 
-<!-## My Django Projects Portfolio
+<!--## My Django Projects Portfolio
 1. [Django social website](https://github.com/Rustam-Z/django-social-website)
 2. [Tech Blog](https://github.com/Rustam-Z/django-blog)
 3. [Online Shop](https://github.com/Rustam-Z/django-online-shop)
