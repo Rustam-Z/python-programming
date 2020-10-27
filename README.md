@@ -2,13 +2,15 @@
 My Path to Learning Python and Web Development
 
 ## My Django Projects
-1. [Django social website](https://github.com/Rustam-Z/django-social-website)
-2. [Tech Blog](https://github.com/Rustam-Z/django-blog)
-3. [E-Commerse Website](https://github.com/Rustam-Z/django-online-shop)
-4. [Online Cinema](https://github.com/Rustam-Z/django-cinema)
-5. [Portfolio Site](https://github.com/Rustam-Z/django-pfs)
-6. [Travelling Agency](https://github.com/Rustam-Z/django-telusko)
-7. [Django CMS Application](https://github.com/Rustam-Z/djangocms-tutorial)
+- [Django Coursera](https://github.com/Rustam-Z/django-coursera)
+- [Django social website](https://github.com/Rustam-Z/django-social-website)
+- [Tech Blog](https://github.com/Rustam-Z/django-blog)
+- [E-Commerse Website](https://github.com/Rustam-Z/django-online-shop)
+- [Portfolio Site](https://github.com/Rustam-Z/django-pfs)
+- [Travelling Agency](https://github.com/Rustam-Z/django-telusko)
+- [Online Cinema](https://github.com/EightSoft-Academy/django-cinema)
+- [Django Polls](https://github.com/EightSoft-Academy/django-polls)
+- [Django Haudi](https://github.com/EightSoft-Academy/django-haudi)
 
 ## 1. Start Learning Python
 - [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) YouTube Tutorial 
