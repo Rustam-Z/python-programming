@@ -1,14 +1,14 @@
 # Learning Area
 My Path to Learning Python and Web Development
 
-<!--## My Django Projects Portfolio
+## My Django Projects
 1. [Django social website](https://github.com/Rustam-Z/django-social-website)
 2. [Tech Blog](https://github.com/Rustam-Z/django-blog)
-3. [Online Shop](https://github.com/Rustam-Z/django-online-shop)
+3. [E-Commerse Website](https://github.com/Rustam-Z/django-online-shop)
 4. [Online Cinema](https://github.com/Rustam-Z/django-cinema)
 5. [Portfolio Site](https://github.com/Rustam-Z/django-pfs)
 6. [Travelling Agency](https://github.com/Rustam-Z/django-telusko)
--->
+7. [Django CMS Application](https://github.com/Rustam-Z/djangocms-tutorial)
 
 ## 1. Start Learning Python
 - [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) YouTube Tutorial 
@@ -23,14 +23,14 @@ My Path to Learning Python and Web Development
 
 ## 2. Start Learning Python Django 
 - CS50's Web Programming - https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
+- [Django-Girls tutorial](https://tutorial.djangogirls.org/en/)
+- [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first read the [overview](https://docs.djangoproject.com/en/3.1/intro/overview/), I found it very interesting
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 
 - For beginners, I recommend starting from [Haudi's YouTube Django tutorial](https://youtu.be/w4nrT7emiVc) (in Russian)
 - Or [Telusko's YouTube Django tutorial](https://www.youtube.com/watch?v=OTmQOjsl0eg)
-- Then go through [Django-Girls tutorial](https://tutorial.djangogirls.org/en/)
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 
-- [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but before read the [overview](https://docs.djangoproject.com/en/3.1/intro/overview/) first, I found it very interesting
 - [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) YouTube Channel, if you are a beginner start from [here](https://youtu.be/xv_bwpA_aEA)
-- Another great YouTube channel is Corey Schafer check [this tutorial series](https://youtu.be/UmljXZIypDc)
-- Of course our lovely freeCodeCamp.org [tutorial for begineers](https://www.youtube.com/watch?v=F5mRW0jo-U4) as well [a guide to building an eCommerce website](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+- Another great YouTube channel - [Corey Schafer](https://youtu.be/UmljXZIypDc)
+- [freeCodeCamp.org tutorial for begineers](https://www.youtube.com/watch?v=F5mRW0jo-U4) and [an E-Commerce website](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 - And in the end I recommend the [Django specialization from Coursera](https://www.coursera.org/specializations/django)
-- My notes from the course https://github.com/Rustam-Z/django-coursera
+- My **notes** from the Coursera Course https://github.com/Rustam-Z/django-coursera
 - Books: Django 3 by Examples || Django for begineers by Vincent W.
