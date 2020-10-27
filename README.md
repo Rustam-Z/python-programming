@@ -22,6 +22,7 @@ My Path to Learning Python and Web Development
 - [Oleg Malchanov](youtube.com/user/zaemiel) (in Russian)
 
 ## 2. Start Learning Python Django 
+- CS50's Web Programming - https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
 - For beginners, I recommend starting from [Haudi's YouTube Django tutorial](https://youtu.be/w4nrT7emiVc) (in Russian)
 - Or [Telusko's YouTube Django tutorial](https://www.youtube.com/watch?v=OTmQOjsl0eg)
 - Then go through [Django-Girls tutorial](https://tutorial.djangogirls.org/en/)
