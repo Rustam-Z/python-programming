@@ -13,26 +13,43 @@ My Path to Learning Python and Web Development
 - [Django Haudi](https://github.com/EightSoft-Academy/django-haudi)
 
 ## 1. Start Learning Python
-- [freeCodeCamp.org](https://www.youtube.com/watch?v=rfscVS0vtbw) YouTube Tutorial 
+- [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw) beginning tutorial 
+- [freeCodeCamp.org](https://youtu.be/HGOBQPFzWKo) intermediate tutorial 
 - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-- My friend suggested "Python For everybody Specialization from Coursera" and I have found [YouTube Turorial](https://www.youtube.com/watch?v=8DvywoWv6fI), but even if you don't need a certificate go to Coursera because there are many quizzes and exams.
-- The books I have read: Think Python, Step by Step Guide to Python
-- Also my friend suggested the book "Python all in one for Dummies" 
-- [w3schools.com Python Tutorial](https://www.w3schools.com/python/default.asp) 
-- [geeksforgeeks.org Python Turorial](https://www.geeksforgeeks.org/python-programming-language/)
-- [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists)
-- [Oleg Malchanov](youtube.com/user/zaemiel) (in Russian)
+- [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-## 2. Start Learning Python Django 
-- CS50's Web Programming - https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
-- [Django-Girls tutorial](https://tutorial.djangogirls.org/en/)
-- [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first read the [overview](https://docs.djangoproject.com/en/3.1/intro/overview/), I found it very interesting
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) 
-- For beginners, I recommend starting from [Haudi's YouTube Django tutorial](https://youtu.be/w4nrT7emiVc) (in Russian)
-- Or [Telusko's YouTube Django tutorial](https://www.youtube.com/watch?v=OTmQOjsl0eg)
-- [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) YouTube Channel, if you are a beginner start from [here](https://youtu.be/xv_bwpA_aEA)
-- Another great YouTube channel - [Corey Schafer](https://youtu.be/UmljXZIypDc)
-- [freeCodeCamp.org tutorial for begineers](https://www.youtube.com/watch?v=F5mRW0jo-U4) and [an E-Commerce website](https://www.youtube.com/watch?v=YZvRrldjf1Y)
-- And in the end I recommend the [Django specialization from Coursera](https://www.coursera.org/specializations/django)
-- My **notes** from the Coursera Course https://github.com/Rustam-Z/django-coursera
-- Books: Django 3 by Examples || Django for begineers by Vincent W.
+- OOP in Python
+  - [by Caleb Curry](https://youtu.be/MikphENIrOo)
+  - [by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
+- Online readings
+  - [Official documentation tutorial](https://docs.python.org/3/tutorial/index.html)
+  - [w3schools.com](https://www.w3schools.com/python/default.asp) 
+  - [geeksforgeeks.org](https://www.geeksforgeeks.org/python-programming-language/)
+  
+- More
+  - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+
+- Books
+  - "Think Python" 
+  - "Step by Step Guide to Python"
+  - "Python all in one for Dummies" 
+
+## 2. Start Learning Django 
+- First step: HTML, CSS, understand how the web works
+  - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn) 
+  - [Django girls](https://tutorial.djangogirls.org/en/) *optional
+  - [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first have a look to [overview](https://docs.djangoproject.com/en/3.1/intro/overview/)
+
+- Next step: Build some projects
+  - [Telusko's tutorial for absolute beginners](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+  - [Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
+  - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+  
+- More 
+  - [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
+  
+- Books 
+  - Django 3 by Examples
+  - Django for begineers by Vincent W.
