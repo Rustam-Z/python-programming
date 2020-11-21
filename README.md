@@ -39,7 +39,7 @@ My Path to Learning Python and Web Development
 - First step: HTML, CSS, understand how the web works
   - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
   - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn) 
-  - [Django girls](https://tutorial.djangogirls.org/en/) *optional
+  - [Django girls](https://tutorial.djangogirls.org/en/)
   - [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first have a look to [overview](https://docs.djangoproject.com/en/3.1/intro/overview/)
 
 - Next step: Build some projects
@@ -59,7 +59,7 @@ My Path to Learning Python and Web Development
 - [Computer Science for Everyone](https://www.youtube.com/playlist?list=PLrC-HcVNfULbGKkhJSgfqvqmaFAZvfHes) 
 - [CS50 by Harvard University](https://www.youtube.com/c/cs50/videos)
 
-## 4. C++ Programming:
+## 4. C++ Programming ([My CPP Projects](https://github.com/Rustam-Z/cpp-projects)):
 - [Denis Markov C++ Tutorial](https://www.youtube.com/playlist?list=PLbmlzoDQrXVFC13GjpPrJxl6mzTiX65gs)
 - [Buckys C++ Programming Tutorial](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
 - [C++ Tutorial by The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
