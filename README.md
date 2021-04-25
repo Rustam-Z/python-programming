@@ -13,6 +13,7 @@ My Path to Learning Python and Web Development
 - [Django Haudi](https://github.com/EightSoft-Academy/django-haudi)
 
 ## 1. Start Learning Python
+- [Google IT Automation](https://www.coursera.org/professional-certificates/google-it-automation)
 - [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw) beginning tutorial 
 - [freeCodeCamp.org](https://youtu.be/HGOBQPFzWKo) intermediate tutorial 
 - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
