@@ -38,6 +38,8 @@ My Path to Learning Python and Web Development
 
 ## 2. Start Learning Django 
 - First step: HTML, CSS, understand how the web works
+  - Web design in 4 minutes: https://jgthms.com/web-design-in-4-minutes/
+  - Flexbox layout: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
   - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
   - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn) 
   - [Django girls](https://tutorial.djangogirls.org/en/)
