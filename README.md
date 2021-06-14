@@ -75,3 +75,5 @@ My Path to Learning Python and Web Development
 - [tutorialspoint.com](https://www.tutorialspoint.com/cplusplus/index.htm)
 - [GeegsForGeeks.org](https://www.geeksforgeeks.org/c-plus-plus/)
 
+## OpenCV Learning Repository
+- https://github.com/Rustam-Z/opencv-learning-area
