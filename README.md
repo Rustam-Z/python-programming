@@ -14,8 +14,8 @@ My Path to Learning Python and Web Development
 
 ## 1. Start Learning Python
 - [Google IT Automation](https://www.coursera.org/professional-certificates/google-it-automation)
-- [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw) beginning tutorial 
-- [freeCodeCamp.org](https://youtu.be/HGOBQPFzWKo) intermediate tutorial 
+- [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw) `beginner tutorial`
+- [freeCodeCamp.org](https://youtu.be/HGOBQPFzWKo) `intermediate tutorial` 
 - [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
@@ -24,6 +24,7 @@ My Path to Learning Python and Web Development
   - [by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 - Online readings
+  - [realpython.com](https://realpython.com/start-here/)
   - [Official documentation tutorial](https://docs.python.org/3/tutorial/index.html)
   - [w3schools.com](https://www.w3schools.com/python/default.asp) 
   - [geeksforgeeks.org](https://www.geeksforgeeks.org/python-programming-language/)
@@ -38,8 +39,8 @@ My Path to Learning Python and Web Development
 
 ## 2. Start Learning Django 
 - First step: HTML, CSS, understand how the web works
-  - Web design in 4 minutes: https://jgthms.com/web-design-in-4-minutes/
-  - Flexbox layout: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  - [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
+  - [Flexbox layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
   - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn) 
   - [Django girls](https://tutorial.djangogirls.org/en/)
