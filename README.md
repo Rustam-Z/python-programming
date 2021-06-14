@@ -20,6 +20,7 @@ My Path to Learning Python and Web Development
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 - OOP in Python
+  - [by realpython.com](https://realpython.com/python3-object-oriented-programming/)
   - [by Caleb Curry](https://youtu.be/MikphENIrOo)
   - [by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
@@ -33,9 +34,10 @@ My Path to Learning Python and Web Development
   - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
 - Books
+  - [Python Basics: A Practical Introduction to Python 3](https://t.me/progbook/5781) 
+  - [Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
   - "Think Python" 
   - "Step by Step Guide to Python"
-  - "Python all in one for Dummies" 
 
 ## 2. Start Learning Django 
 - First step: HTML, CSS, understand how the web works
