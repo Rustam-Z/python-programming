@@ -1,67 +1,48 @@
-# Learning Area
-My Path to Learning Python and Web Development
+# Python learning area
+My path to learning Python and Web Development.
 
-## My Django Projects
-- [Django Coursera](https://github.com/Rustam-Z/django-coursera)
-- [Django social website](https://github.com/Rustam-Z/django-social-website)
-- [Tech Blog](https://github.com/Rustam-Z/django-blog)
-- [E-Commerse Website](https://github.com/Rustam-Z/django-online-shop)
-- [Portfolio Site](https://github.com/Rustam-Z/django-pfs)
-- [Travelling Agency](https://github.com/Rustam-Z/django-telusko)
-- [Online Cinema](https://github.com/EightSoft-Academy/django-cinema)
-- [Django Polls](https://github.com/EightSoft-Academy/django-polls)
-- [Django Haudi](https://github.com/EightSoft-Academy/django-haudi)
-
-## 1. Start Learning Python
-- [Google IT Automation](https://www.coursera.org/professional-certificates/google-it-automation)
+## 1. Start learning Python
+- [Python Programmer](https://learn.datacamp.com/career-tracks/python-programmer), datacamp.com `data science`
 - [freeCodeCamp.org](https://youtu.be/rfscVS0vtbw) `beginner tutorial`
 - [freeCodeCamp.org](https://youtu.be/HGOBQPFzWKo) `intermediate tutorial` 
-- [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-
+- [Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - OOP in Python
   - [by realpython.com](https://realpython.com/python3-object-oriented-programming/)
   - [by Caleb Curry](https://youtu.be/MikphENIrOo)
   - [by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
-
 - Online readings
-  - [realpython.com](https://realpython.com/start-here/)
-  - [Official documentation tutorial](https://docs.python.org/3/tutorial/index.html)
   - [w3schools.com](https://www.w3schools.com/python/default.asp) 
   - [geeksforgeeks.org](https://www.geeksforgeeks.org/python-programming-language/)
-  
-- More
-  - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-
+  - [programiz.com](https://www.programiz.com/python-programming)
 - Books
   - [Python Basics: A Practical Introduction to Python 3](https://t.me/progbook/5781) 
   - [Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
-  - "Think Python" 
-  - "Step by Step Guide to Python"
 
 ## 2. Start Learning Django 
 - First step: HTML, CSS, understand how the web works
   - [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
-  - [Flexbox layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
-  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn) 
+  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn), [Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
   - [Django girls](https://tutorial.djangogirls.org/en/)
   - [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first have a look to [overview](https://docs.djangoproject.com/en/3.1/intro/overview/)
-
-- Next step: Build some projects
-  - [Telusko's tutorial for absolute beginners](https://www.youtube.com/watch?v=OTmQOjsl0eg)
-  - [Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
+- Next step: Build django projects
+  - [Python Django Crash Course](https://www.youtube.com/watch?v=e1IyzVyrLSU)
   - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-  
-- More 
-  - [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
-  
+  - [Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
 - Books 
   - Django 3 by Examples
   - Django for begineers by Vincent W.
   
+## 2.1 My django projects
+- [Django social website](https://github.com/Rustam-Z/django-social-website)
+- [Tech blog](https://github.com/Rustam-Z/django-blog)
+- [E-commerse website](https://github.com/Rustam-Z/django-online-shop)
+- [Portfolio site](https://github.com/Rustam-Z/django-pfs)
+- [Travelling agency](https://github.com/Rustam-Z/django-telusko)
+
 ## 3. Computer Science (Intoduction to IT):
-- [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | the best :)
+- [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Computer Science for Everyone](https://www.youtube.com/playlist?list=PLrC-HcVNfULbGKkhJSgfqvqmaFAZvfHes) 
 - [CS50 by Harvard University](https://www.youtube.com/c/cs50/videos)
 
