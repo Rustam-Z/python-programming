@@ -19,11 +19,11 @@ My path to learning Python and Web Development.
   - [Python Basics: A Practical Introduction to Python 3](https://t.me/progbook/5781) 
   - [Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
 
-## 2. Start Learning Django 
+## 2. Start learning django 
 - First step: HTML, CSS, understand how the web works
   - [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
   - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
-  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn), [Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn), [django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
   - [Django girls](https://tutorial.djangogirls.org/en/)
   - [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first have a look to [overview](https://docs.djangoproject.com/en/3.1/intro/overview/)
 - Next step: Build django projects
