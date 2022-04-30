@@ -24,7 +24,7 @@ The best advice I can give you is: “Learn by doing! Your project must bring so
   - collections, itertools, requests, json, csv, pathlib, os, sys
   - [OpenCV](https://github.com/Rustam-Z/opencv-learning-area)
 
-## 2. Advancing with Python - it is continuous learning. Do in parallel with step 3.
+## 2. Advancing with Python - it is continuous learning. Do in parallel with third step.
 - Testing with Python - "Python testing with PyTest"
 - SOLID Principles, KISS, DRY
 - Design Patterns
