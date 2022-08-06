@@ -1,4 +1,4 @@
-# Python learning area
+# Python Developer Learning Roadmap
 Developer path to learn Python and Web Development with Django.
 
 The best advice I can give you is: “Learn by doing! Create projects that bring some benefit to you or the people around you, don't learn new stuff if you don't know why you need it. Learn to prioritize tasks and steps. Focus on 1 thing!"
