@@ -1,114 +1,135 @@
-# Python Developer Learning Roadmap
-Developer path to learn Python and Web Development with Django.
+# Software Engineering with Python
 
-The best advice I can give you is: “Learn by doing! Create projects that bring some benefit to you or the people around you, don't learn new stuff if you don't know why you need it. Learn to prioritize tasks and steps. Focus on 1 thing!"
+```
+Learn and code every day! Take notes.
+Learn asking GOOD questions.
+Learn to prioritize tasks. Focus on 1 thing!
+Build something, anything. Build projects that bring some benefit to you or the people around you. 
+Take small steps, but every day, consistency is very important.
+```
 
-## 3 Important Skills
+## Contents:
+- [Important Skills](#important-skills)
+- [Computer Science Basics](#computer-science-basics)
+- [Start Learning Python](#start-learning-python)
+- [Discover some Python libraries](#discover-some-python-libraries)
+- [Databases: SQL, NoSQL](#databases-sql-nosql)
+- [Web Development](#web-development)
+- [**Advanced Python](#advanced-python)
+
+## Important Skills
 1. Algorithms and data structures
-2. Programming mindset
-3. Know your programming language (analytical, problem-solving mindset)
-  
-## 0. Computer Science Basics
-- [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
-- [Computer Science for Everyone with Java](https://www.youtube.com/playlist?list=PLrC-HcVNfULbGKkhJSgfqvqmaFAZvfHes)
-- [CS50 by Harvard University](https://www.youtube.com/c/cs50/videos)
+2. Programming mindset - analytical, problem-solving mindset
+3. Know your programming language 
 
-## 1. Start Learning Python - learn the basics, after completing this step, make your own project using Core Python. You don't need a web app, create a console app, or use [TKinter](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV).
-- [freeCodeCamp.org - beginner tutorial](https://youtu.be/rfscVS0vtbw), [freeCodeCamp.org - intermediate tutorial](https://youtu.be/HGOBQPFzWKo)
+## Computer Science Basics
+- [Harvard CS50](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL) - Scratch, C, Arrays, Algorithms, Memory, Data structures, Python, SQL, HTML, CSS, JavaScript, Flask
+- `Optional` [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+## Start Learning Python 
+Learn the basics, watch a couple of tutorials, read articles, then build projects using Python. 
+You don't need a web app, create a console app, or desktop apps.
+I will provide some project ideas below.
+
+- [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/)
+- [freeCodeCamp.org - Python beginning](https://youtu.be/rfscVS0vtbw)
+- [freeCodeCamp.org - Python intermediate](https://youtu.be/HGOBQPFzWKo)
+- [Программирование на Python](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku)
+- [Learn TKinter](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU), focus **MORE** on this
+- Readings:
+  - [Easy practical Python](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
+  - [w3schools.com](https://www.w3schools.com/python/)
+  - [programiz.com](https://www.programiz.com/python-programming)
+  - *[pythontutorial.net](https://www.pythontutorial.net/) - _Python Basics_ and _Python Advanced_ sections
+  - **[python-course.eu](https://python-course.eu/python-tutorial/) - only _Python Tutorial_ section
+  - **[realpython.com](https://realpython.com/python-basics/)
+- Videos:
+  - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU), focus **MORE** on this!
 - OOP in Python:
   - [by Caleb Curry](https://youtu.be/MikphENIrOo)
   - [by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
-- Online readings:
-  - realpython.org
-  - [w3schools.com](https://www.w3schools.com/python/default.asp) 
-  - pythontutorial.net
-- Books for begineers:
+  - [python-course.eu](https://python-course.eu/oop/)
+  - [pythontutorial.net](https://www.pythontutorial.net/python-oop/)
+- Books:
   - [Python Basics: A Practical Introduction to Python 3](https://t.me/progbook/5781)
-  - [Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
-- Discover some Python libraries:
-  - collections, itertools, requests, json, csv, pathlib, os, sys
-- [Solve some problems with Python](https://github.com/darkprinx/break-the-ice-with-python)
+  - *[Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
+- [Problem solving](https://github.com/darkprinx/break-the-ice-with-python)
 
-## 2. Advancing with Python - it is continuous learning. Do in parallel with third step.
-- Learn to write Clean Code:
-  - [clean-code-python](https://github.com/zedr/clean-code-python)
-  - [testdriven.io](https://testdriven.io/blog/clean-code-python)
-- Testing with Python: PyTest
-- [SOLID Principles](https://github.com/Rustam-Z/advanced-python/tree/main/solid), KISS, DRY
-- [Design Patterns](https://github.com/Rustam-Z/advanced-python/tree/main/design_patterns)
-- Concurrency and parallelism 
-- Read more books: "Fluent Python", "Python Cookbook", "Learning Python", "Clean code in Python" and more
+## Discover some Python libraries
+- File handling: txt, `json`, `csv`, `yaml`
+- Working with paths with `pathlib` and OS with `os`
+- Sending HTTP request and receiving HTTP response with `requests`
+- Building CLI with `argparse` 
+- Working with data `collections`, `itertools`
+- Learn scrapping using [beautiful-soup](https://beautiful-soup-4.readthedocs.io/en/latest/) or *Selenium
 
-## 3. Start Building Web Apps - Git, HTML, CSS, Databases, Flask & Django, REST API.
-- First step: HTML, CSS, understand how the Internet works, what is HTTP, DNS, REST API.
+## Databases: SQL, NoSQL
+- SQL
+  - [sqlbolt.com](https://sqlbolt.com/)
+  - [w3schools.com](https://www.w3schools.com/sql/)
+  - [sqltutorial.org](https://www.sqltutorial.org/)
+- `sqlite`, `sqlalchemy`
+  - [Introduction to working with databases in Python](https://www.youtube.com/watch?v=TY6RDEG9bhw)
+- Relationships: One-to-One, One-to-Many, Many-to-Many
+- _Data normalization_
+
+## Web Development 
+- Understand how Internet works, OSI & TCP/IP models, DNS, HTTP, REST API.
+- HTML, CSS, JavaScript
   - [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
-  - [CS50's Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
-  - Just Google more! 
-- Second step: Learn database design, entity relationships (OneToOne, OneToMany, ManyToMany), and then move on to django.
-  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn), [django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+  - [CS50: Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
+- Learn Django or Flask
+  - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn), [Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
   - [Django girls](https://tutorial.djangogirls.org/en/)
-  - [Official documentation tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/), but first have a look to [overview](https://docs.djangoproject.com/en/3.1/intro/overview/)
-- Next step: See how others build projects on django, then create own!!
+  - "Flask Web Development" Miguel Grinberg
+  - "Building REST APIs with Flask" Kunal Relan  
+- See how others build projects using django, then build your own app.
   - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
   - [Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
   - [Building REST API](https://wsvincent.com/django-rest-framework-tutorial/)
-- Read books:
-  - "Django for begineers" by Vincent W.
+- Books:
+  - "Django for beginners" by Vincent W.
   - "Django for APIs" by Vincent W.
   - "Django 3 by Examples"
 
-## 4. Advanced Python 
-- [Advanced Python](https://github.com/Rustam-Z/advanced-python)
-
-## Final Thoughts
-Learn every day, consistency is very important! Make your own projects, get ideas for your projects by looking at your surrounding.
- 
-## Projects Ideas
-1. Banking system with all banking facilities like – deposit, withdrawal, foreign exchange to any currency, availability of loans for purchasing vehicles, apartments, houses, setting up business, education loan, management of ATMs and all other features.
-2. Airline flight reservation system (online booking of tickets in different flights for different destinations all over the world, cancellation of tickets, clear display of cancellation amount, refund of amount after cancellation, showing  availability of all flights, showing flights timings for all 7 days of a week, seats availability, seat selection for travelers by giving the complete layout of the seating arrangement inside the flights, food availability/non-availability inside the flights, change of travel dates and amount charged.)
-3. Taxi/cab sharing
-4. University education portal (providing all information about under-graduate, post graduate and doctoral programs offered, facilities available, location & map, fee structure in all the universities)
-5. Online exam management system (with total security of identifying the students during exam, monitoring the students’ activities during the exam, selection of different questions for each student, development of a large question bank containing hundreds of questions in each subject considering all courses taught at the university)
-6. Library management system
-7. E-content management system 
-8. Plagiarism checker & file management system
-9. Hotel reservation & management portal
-10. Restaurant management
-11. Healthcare consulting system (doctors with different specializations for consultation, hospitals with all facilities for treating different diseases & abroad - one stop portal for all consultations and treatments)
-12. Electronic health record management system with builtin security 
-13. Pharmacy - medical store management 
-14. Blood bank system
-15. Online shopping and delivery system (like amazon)
-16. Online car shopping 
-17. Tourism portal
-18. World tourism portal
-19. Higher education abroad portal
-20. Job search/recruitment portal
-21. Company resource management system
-22. Attendance monitoring system with fingerprints verification
-23. Face recognition - based attendance checking system
-24. Aircraft communication and monitoring system
-25. Ticket booking management system for concert ceremonies
-26. All store stock management (inventory control)
-27. Multiplayer gaming applications
-28. City traffic monitoring and control system
-29. Police traffic violation reporting & control system
-30. The marriage function hall booking & food/music arrangement system
-31. Any vehicle (car, bus, heavy vehicles for parties, functions, family picnics, long distance travel) booking portal
-32. Teacher assisted program writing environment for students
-33. Doctors reservation system for patients
-34. Bus reservation & tracking system
-35. Railway booking and train tracking system
-36. Warehouse management system
-37. Courier tracking, cargo and freight transportation
-38. Online code testing system
-39. Online quiz system (with total security of identifying the students during the quiz, monitoring the students’ activities during the quiz, selection of different quiz questions for each student, development of a large quiz question bank containing hundreds of quiz questions in each subject considering all courses taught at the university)
-40. Land/house/apartment rental & purchase portal
-41. Housecleaning, plumbing, electricity service & maintenance system
-42. Human organ transplantation management system
-43. Covid-19 tracking, testing, treatment & hospital management system
-44. Cryptocurrency trading portal (exchange) allowing trading of all crypto coins using security, confidentiality and authentication
-45. Parking management system
-46. Online food delivery system (linked to all restaurants in different districts in different regions in some country)
+## Advanced Python
+- Clean code:
+  - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
+  - [clean-code-python](https://github.com/zedr/clean-code-python)
+  - [testdriven.io](https://testdriven.io/blog/clean-code-python)
+  - "Clean code in Python" book
+  - [LinkedIn Learning: Clean coding practices](https://www.linkedin.com/learning/agile-software-development-clean-coding-practices)
+  - `typing`
+  - `dataclasses`
+- Clean design:
+  - Design principles: KISS, DRY, SOLID
+  - Design patterns
+- Concurrency, parallelism, asynchronicity programming:
+  - [Concurrency and parallelism](https://www.pythontutorial.net/python-concurrency/)
+  - [realpython.com](https://realpython.com/learning-paths/python-concurrency-parallel-programming)
+  - [LinkedIn Learning: Part 1](https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-1)
+  - [LinkedIn Learning: Part 2](https://www.linkedin.com/learning/python-parallel-and-concurrent-programming-part-2)
+- Testing:
+  - `unittest`, `pytest`
+  - "Python testing with PyTest" book
+  - *"TDD in Python" book
+- Advanced topics:
+  - [python-course.eu](https://python-course.eu/advanced-python/)
+  - [book.pythontips.com/](https://book.pythontips.com/en/latest/)
+  - [Python topics for Senior developers](https://github.com/matacoder/senior)
+  - [Python best practices - realpython.com](https://realpython.com/tutorials/best-practices/)
+  - [Medium blog](https://medium.com/techtofreedom/python/home)
+  - [thedigitalcatonline.com](https://thedigitalcatonline.com/)
+  - *[Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
+- Books:
+  - "Fluent Python"
+  - "Python Cookbook"
+  - "Learning Python"
+  - "Effective Python"
+  - "Advanced Guide to Python 3"
+  - "Mastering Object-Oriented Python"
+  - "Expert Python Programming" 2021
+  - "High performance Python"
+  - "Practices of the Python Pro", "The Python workshop", "Python Workout"
+  - and more
