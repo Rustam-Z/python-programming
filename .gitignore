@@ -1,0 +1,4 @@
+venv/*
+.*
+__pychache__*
+*.pyc
