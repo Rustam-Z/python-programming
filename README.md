@@ -27,9 +27,7 @@ Take small steps, but every day, consistency is very important.
 - `Optional` [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Start Learning Python 
-Learn the basics, watch a couple of tutorials, read articles, then build projects using Python. 
-You don't need a web app, create a console app, or desktop apps.
-I will provide some project ideas below.
+Learn the basics, watch a couple of tutorials, read articles, and then build projects using Python. Learn by building. Start from building console applications, then learn how to build desktop apps, then web apps.
 
 - [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/)
 - [freeCodeCamp.org - Python beginning](https://youtu.be/rfscVS0vtbw)
@@ -54,7 +52,10 @@ I will provide some project ideas below.
 - Books:
   - [Python Basics: A Practical Introduction to Python 3](https://t.me/progbook/5781)
   - *[Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
-- [Problem solving](https://github.com/darkprinx/break-the-ice-with-python)
+ 
+## Problem solving
+- https://github.com/Rustam-Z/cpp-programming
+- https://github.com/darkprinx/break-the-ice-with-python
 
 ## Discover some Python libraries
 - File handling: txt, `json`, `csv`, `yaml`
@@ -75,7 +76,7 @@ I will provide some project ideas below.
 - _Data normalization_
 
 ## Web Development 
-- Understand how Internet works, OSI & TCP/IP models, DNS, HTTP, REST API.
+- Understand how the Internet works, OSI & TCP/IP models, DNS, HTTP, REST API.
 - HTML, CSS, JavaScript
   - [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
   - [CS50: Web Programming Course](https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu)
@@ -84,7 +85,7 @@ I will provide some project ideas below.
   - [Django girls](https://tutorial.djangogirls.org/en/)
   - "Flask Web Development" Miguel Grinberg
   - "Building REST APIs with Flask" Kunal Relan  
-- See how others build projects using django, then build your own app.
+- See how others build projects using Django, then build your own app.
   - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
   - [Dennis Ivy](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
   - [Building REST API](https://wsvincent.com/django-rest-framework-tutorial/)
@@ -94,6 +95,9 @@ I will provide some project ideas below.
   - "Django 3 by Examples"
 
 ## Advanced Python
+Check https://github.com/Rustam-Z/senior-python-developer.
+
+On a high level:
 - Clean code:
   - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
   - [clean-code-python](https://github.com/zedr/clean-code-python)
@@ -113,7 +117,6 @@ I will provide some project ideas below.
 - Testing:
   - `unittest`, `pytest`
   - "Python testing with PyTest" book
-  - *"TDD in Python" book
 - Advanced topics:
   - [python-course.eu](https://python-course.eu/advanced-python/)
   - [book.pythontips.com/](https://book.pythontips.com/en/latest/)
