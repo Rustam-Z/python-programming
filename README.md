@@ -2,7 +2,7 @@
 
 ```
 Learn and code every day! Take notes.
-Learn asking GOOD questions.
+Learn to ask GOOD questions.
 Learn to prioritize tasks. Focus on 1 thing!
 Build something, anything. Build projects that bring some benefit to you or the people around you. 
 Take small steps, but every day, consistency is very important.
@@ -32,9 +32,9 @@ Learn the basics, watch a couple of tutorials, read articles, and then build pro
 - [11 Beginner Tips for Learning Python Programming](https://realpython.com/python-beginner-tips/)
 - [freeCodeCamp.org - Python beginning](https://youtu.be/rfscVS0vtbw)
 - [freeCodeCamp.org - Python intermediate](https://youtu.be/HGOBQPFzWKo)
-- [Программирование на Python](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku)
-- [Learn TKinter](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [Программирование на Python](https://www.youtube.com/playlist?n=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku)
+- [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU), focus **MORE** on this!
 - Readings:
   - [Easy practical Python](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
   - [w3schools.com](https://www.w3schools.com/python/)
@@ -42,8 +42,6 @@ Learn the basics, watch a couple of tutorials, read articles, and then build pro
   - *[pythontutorial.net](https://www.pythontutorial.net/) - _Python Basics_ and _Python Advanced_ sections
   - **[python-course.eu](https://python-course.eu/python-tutorial/) - only _Python Tutorial_ section
   - **[realpython.com](https://realpython.com/python-basics/)
-- Videos:
-  - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU), focus **MORE** on this!
 - OOP in Python:
   - [by Caleb Curry](https://youtu.be/MikphENIrOo)
   - [by Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
@@ -53,17 +51,18 @@ Learn the basics, watch a couple of tutorials, read articles, and then build pro
   - [Python Basics: A Practical Introduction to Python 3](https://t.me/progbook/5781)
   - *[Python Tricks: A Buffet of Awesome Python Features](https://t.me/progbook/5882)
  
-## Problem solving
+## Problem solving & Practical tasks
 - https://github.com/Rustam-Z/cpp-programming
 - https://github.com/darkprinx/break-the-ice-with-python
 
 ## Discover some Python libraries
+- [Learn TKinter](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
+- Learn web scraping using [beautiful-soup](https://beautiful-soup-4.readthedocs.io/en/latest/) or *Selenium
 - File handling: txt, `json`, `csv`, `yaml`
 - Working with paths with `pathlib` and OS with `os`
-- Sending HTTP request and receiving HTTP response with `requests`
+- Sending HTTP requests and receiving HTTP responses with `requests`
 - Building CLI with `argparse` 
 - Working with data `collections`, `itertools`
-- Learn scrapping using [beautiful-soup](https://beautiful-soup-4.readthedocs.io/en/latest/) or *Selenium
 
 ## Databases: SQL, NoSQL
 - SQL
@@ -133,6 +132,5 @@ On a high level:
   - "Advanced Guide to Python 3"
   - "Mastering Object-Oriented Python"
   - "Expert Python Programming" 2021
-  - "High performance Python"
+  - "High-performance Python"
   - "Practices of the Python Pro", "The Python workshop", "Python Workout"
-  - and more
