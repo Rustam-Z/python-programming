@@ -33,7 +33,7 @@ Learn the basics, watch a couple of tutorials, read articles, and then build pro
 - [freeCodeCamp.org - Python beginning](https://youtu.be/rfscVS0vtbw)
 - [freeCodeCamp.org - Python intermediate](https://youtu.be/HGOBQPFzWKo)
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- [Программирование на Python](https://www.youtube.com/playlist?n=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku)
+- [Программирование на Python](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQhNphPSpcO4daaRPeVstku)
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU), focus **MORE** on this!
 - Readings:
   - [Easy practical Python](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
