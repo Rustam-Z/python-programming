@@ -24,7 +24,7 @@ Take small steps, but every day, consistency is very important.
 
 ## Computer Science Basics
 - [Harvard CS50](https://youtube.com/playlist?list=PLhQjrBD2T383f9scHRNYJkior2VvYjpSL) - Scratch, C, Arrays, Algorithms, Memory, Data structures, Python, SQL, HTML, CSS, JavaScript, Flask
-- `Optional` [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Start Learning Python 
 Learn the basics, watch a couple of tutorials, read articles, and then build projects using Python. Learn by building. Start from building console applications, then learn how to build desktop apps, then web apps.
@@ -56,13 +56,12 @@ Learn the basics, watch a couple of tutorials, read articles, and then build pro
 - https://github.com/darkprinx/break-the-ice-with-python
 
 ## Discover some Python libraries
-- [Learn TKinter](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV)
-- Learn web scraping using [beautiful-soup](https://beautiful-soup-4.readthedocs.io/en/latest/) or *Selenium
 - File handling: txt, `json`, `csv`, `yaml`
 - Working with paths with `pathlib` and OS with `os`
 - Sending HTTP requests and receiving HTTP responses with `requests`
 - Building CLI with `argparse` 
 - Working with data `collections`, `itertools`
+- Learn web scraping using [beautiful-soup](https://beautiful-soup-4.readthedocs.io/en/latest/) and Selenium
 
 ## Databases: SQL, NoSQL
 - SQL
