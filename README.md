@@ -117,7 +117,7 @@ On a high level:
   - "Python testing with PyTest" book
 - Advanced topics:
   - [python-course.eu](https://python-course.eu/advanced-python/)
-  - [book.pythontips.com/](https://book.pythontips.com/en/latest/)
+  - [book.pythontips.com](https://book.pythontips.com/en/latest/)
   - [Python topics for Senior developers](https://github.com/matacoder/senior)
   - [Python best practices - realpython.com](https://realpython.com/tutorials/best-practices/)
   - [Medium blog](https://medium.com/techtofreedom/python/home)
